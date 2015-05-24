@@ -18,7 +18,8 @@ public class rubyMod {
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event)
 	{
-
+		rubyBlocks.init();
+		rubyBlocks.register();
 		rubyItems.init();
 		rubyItems.register();
 	}
