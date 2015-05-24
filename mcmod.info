@@ -1,0 +1,18 @@
+
+[
+{
+  "modid": "rubymod",
+  "name": "Ruby Mod",
+  "description": "A Mod That Adds Rubys To the Game!",
+  "version": "4.0.0 Alpha",
+  "mcversion": "1.8.0",
+  "logoFile": "/rubylogo.png",
+  "url": "http://billybobjoe13245.x10.mx",
+  "updateUrl": "",
+  "authorList": ["billybobjoe13245"],
+  "credits": "Made by Billybobjoe13245",
+  "parent": "",
+  "screenshots": ["/screenshot.png"],
+  "dependencies": []
+}
+]
